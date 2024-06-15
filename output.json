@@ -1,0 +1,13 @@
+{'method':[''],
+'solvent':['deionized water'],
+'solvent_v':[],
+'temperature':[60],
+'ph':[],
+'precursors':[{"precursor":'Zinc acetate',"precursor_conc":0.0001,"precursor_mass":}],
+'additives':[{"additive":'soybean seed',"additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'soybean',"seed_conc":,"seed_mass":}],
+'composition':['ZnONPs'],
+'sizes':[{"length":12,"width":12,"depth":12}],
+'crystal system':['XRD'],
+'pdfno':[''],
+'shape':['sphere']}
